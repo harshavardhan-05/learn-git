@@ -1,2 +1,3 @@
 # learn-git
-basic knowledge about git and github
+basic knowledge 
+about git and github
